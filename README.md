@@ -1,2 +1,1 @@
 # Boo
-Secure access platform
